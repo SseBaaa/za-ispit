@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\drugi2t\drugi2t\obj\Debug\drugi2t.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\drugi2t\drugi2t\obj\Debug\drugi2t.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\drugi2t\drugi2t\bin\Debug\drugi2t.exe.config
+C:\Users\sebas\source\repos\drugi2t\drugi2t\bin\Debug\drugi2t.exe
+C:\Users\sebas\source\repos\drugi2t\drugi2t\bin\Debug\drugi2t.pdb
+C:\Users\sebas\source\repos\drugi2t\drugi2t\obj\Debug\drugi2t.exe
+C:\Users\sebas\source\repos\drugi2t\drugi2t\obj\Debug\drugi2t.pdb
