@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\zad1t\zad1t\bin\Debug\zad1t.exe.config
+C:\Users\sebas\source\repos\zad1t\zad1t\bin\Debug\zad1t.exe
+C:\Users\sebas\source\repos\zad1t\zad1t\bin\Debug\zad1t.pdb
+C:\Users\sebas\source\repos\zad1t\zad1t\obj\Debug\zad1t.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\zad1t\zad1t\obj\Debug\zad1t.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\zad1t\zad1t\obj\Debug\zad1t.exe
+C:\Users\sebas\source\repos\zad1t\zad1t\obj\Debug\zad1t.pdb
