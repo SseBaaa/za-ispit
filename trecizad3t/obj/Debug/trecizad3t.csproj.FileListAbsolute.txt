@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\trecizad3t\trecizad3t\bin\Debug\trecizad3t.exe.config
+C:\Users\sebas\source\repos\trecizad3t\trecizad3t\bin\Debug\trecizad3t.exe
+C:\Users\sebas\source\repos\trecizad3t\trecizad3t\bin\Debug\trecizad3t.pdb
+C:\Users\sebas\source\repos\trecizad3t\trecizad3t\obj\Debug\trecizad3t.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\trecizad3t\trecizad3t\obj\Debug\trecizad3t.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\trecizad3t\trecizad3t\obj\Debug\trecizad3t.exe
+C:\Users\sebas\source\repos\trecizad3t\trecizad3t\obj\Debug\trecizad3t.pdb
